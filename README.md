@@ -1,4 +1,4 @@
-# project2 Technical Report
+# project2: Video Games Dataset: Technical Report
 Group project: Donny, Greg, Kaitlyn, Kali, Ahmed
 
 In this project, the team performed an ETL on Video Games data sets. We were interested in consolidating a number of data sources into one RDS for future analysis. Our project proposal:
